@@ -1,6 +1,6 @@
 # How to use AI to generate a complete Flask Web App in just One File
 
-### One script to rule them all...
+### One file to rule them all...
 
 > YouTube Video:<br>
 > How to use AI to Generate a Single-File Flask Web App that Runs Locally<br>
